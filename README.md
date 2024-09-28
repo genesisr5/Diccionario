@@ -1,0 +1,2 @@
+# Diccionario
+Crear información ficticia
